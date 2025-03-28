@@ -65,4 +65,4 @@ jobs:
           app-name: 'skabir'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_710F65121A174207ABD3EE63CD7FAB77 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_09E404EF7C514EABA6D6C6BE762C75E5 }}
